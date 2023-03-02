@@ -1,0 +1,78 @@
+/*Selector{
+	property: value;
+}*/
+*{
+	text-align: right;
+}
+
+body
+{
+background-color: peachpuff;
+padding:0; font-family: Arial, Helvetica, sans-serif;
+margin:0px auto auto auto;
+color:#424849;
+font-size:12px;
+}
+
+#main_container{
+width:auto;
+height:auto;
+margin:auto;
+padding:0px;
+}
+#header{
+width:auto;
+height:auto;
+background-color:peachpuff;
+margin:auto;
+}
+
+nav ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+H1{
+	text-align: center;
+}
+
+.column4{
+width:690px;
+float:left;
+margin:0px;
+padding:10px 0px 10px 5px;
+}
+
+.offer_box_wide{
+width:310px;
+height:106px;
+float:left;
+background-color:#f3f5f6;
+padding:10px;
+margin:7px;
+
+}
+
+.webText{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+.webText2{
+text-align: center;
+
+}
+
+
+#footer{
+width:AUTO;
+height:AUTO;
+clear:both;
+font-size:12px;
+background-color:#f2efef;
+border-top:1px #eeabbd dashed;
+
+}
